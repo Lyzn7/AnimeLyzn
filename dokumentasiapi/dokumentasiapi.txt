@@ -1,0 +1,45 @@
+Halaman Home
+GET /anime/home
+Mendapatkan data dari halaman utama.
+Jadwal Rilis Anime
+GET /anime/schedule
+Mendapatkan jadwal rilis anime per hari.
+Detail Lengkap Anime
+GET /anime/anime/:slug
+Mendapatkan detail lengkap sebuah anime.
+Contoh: /anime/anime/akamoto-day-part-2-sub-indo
+Anime Tamat per Halaman
+GET /anime/complete-anime/:page
+Mendapatkan daftar anime tamat berdasarkan halaman.
+Contoh: /anime/complete-anime/2
+Anime yang Sedang Tayang
+GET /anime/ongoing-anime
+Mendapatkan daftar anime yang sedang tayang (ongoing).
+Query Opsional: ?page=1
+Daftar Semua Genre
+GET /anime/genre
+Mendapatkan daftar semua genre yang tersedia.
+Daftar Anime Berdasarkan Genre
+GET /anime/genre/:slug
+Mendapatkan daftar anime berdasarkan genre tertentu.
+Query Opsional: ?page=1
+Contoh: /anime/genre/action?page=1
+Detail dan Link Nonton per Episode
+GET /anime/episode/:slug
+Mendapatkan detail dan link streaming untuk sebuah episode.
+Contoh: /anime/episode/mebsn-episode-1-sub-indo
+Pencarian Anime
+GET /anime/search/:keyword
+Melakukan pencarian anime berdasarkan kata kunci.
+Contoh: /anime/search/boruto
+Download Batch Anime
+GET /anime/batch/:slug
+Mendapatkan link download batch untuk sebuah anime.
+Contoh: /anime/batch/jshk-s2-batch-sub-indo
+Ambil URL Stream Server
+GET /anime/server/:serverId
+Mengambil URL embed streaming berdasarkan server ID yang didapat dari detail episode.
+Contoh: /anime/server/187226-0-720p
+All Anime
+GET /anime/unlimited
+Mendapatkan Data Semua Anime.

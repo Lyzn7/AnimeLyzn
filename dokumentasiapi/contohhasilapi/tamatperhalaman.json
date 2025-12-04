@@ -1,0 +1,241 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "data": {
+    "paginationData": {
+      "current_page": 2,
+      "last_visible_page": 64,
+      "has_next_page": true,
+      "next_page": 3,
+      "has_previous_page": true,
+      "previous_page": 1
+    },
+    "completeAnimeData": [
+      {
+        "title": "Necronomico no Cosmic Horror Show",
+        "slug": "necronomico-cosmic-horror-show-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Necronomico-no-Cosmic-Horror-Show-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "6.17",
+        "last_release_date": "27 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/necronomico-cosmic-horror-show-sub-indo/"
+      },
+      {
+        "title": "Uma Musume: Cinderella Gray",
+        "slug": "uma-musume-cinderella-gray-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Uma-Musume-Cinderella-Gray-Sub-Indo.jpg",
+        "episode_count": "13",
+        "rating": "8.56",
+        "last_release_date": "24 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/uma-musume-cinderella-gray-sub-indo/"
+      },
+      {
+        "title": "Kanojo, Okarishimasu Season 4",
+        "slug": "kanojo-no-okarishimasu-s4-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Kanojo-Okarishimasu-Season-4-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "6.15",
+        "last_release_date": "24 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/kanojo-no-okarishimasu-s4-sub-indo/"
+      },
+      {
+        "title": "To Be Hero X",
+        "slug": "to-be-hero-x-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/To-Be-Hero-X-Sub-Indo.jpg",
+        "episode_count": "24",
+        "rating": "8.72",
+        "last_release_date": "22 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/to-be-hero-x-sub-indo/"
+      },
+      {
+        "title": "Kusuriya no Hitorigoto Season 2",
+        "slug": "kusuriya-hitorigoto-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Kusuriya-no-Hitorigoto-Season-2-Sub-Indo.jpg",
+        "episode_count": "24",
+        "rating": "8.91",
+        "last_release_date": "20 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/kusuriya-hitorigoto-s2-sub-indo/"
+      },
+      {
+        "title": "Sakamoto Days Part 2",
+        "slug": "akamoto-day-part-2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Sakamoto-Days-Part-2-Sub-Indo.jpg",
+        "episode_count": "11",
+        "rating": "7.96",
+        "last_release_date": "18 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/akamoto-day-part-2-sub-indo/"
+      },
+      {
+        "title": "A-Rank Party wo Ridatsu shita Ore wa",
+        "slug": "a-rank-party-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/A-Rank-Party-wo-Ridatsu-shita-Ore-wa-Sub-Indo.jpg",
+        "episode_count": "24",
+        "rating": "6.57",
+        "last_release_date": "18 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/a-rank-party-sub-indo/"
+      },
+      {
+        "title": "Arknights Season 3",
+        "slug": "arknights-rise-from-ember-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Arknights-Season-3-Sub-Indo.jpg",
+        "episode_count": "10",
+        "rating": "7.78",
+        "last_release_date": "16 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/arknights-rise-from-ember-sub-indo/"
+      },
+      {
+        "title": "Kowloon Generic Romance",
+        "slug": "kowloon-generic-romance-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Kowloon-Generic-Romance-Sub-Indo.jpg",
+        "episode_count": "13",
+        "rating": "7.37",
+        "last_release_date": "15 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/kowloon-generic-romance-sub-indo/"
+      },
+      {
+        "title": "Kuroshitsuji: Midori no Majo-hen",
+        "slug": "kuroshitsuji-midori-no-majo-hen-subtitle-indonesia",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Kuroshitsuji-Midori-no-Majo-hen-Sub-Indo.jpg",
+        "episode_count": "13",
+        "rating": "8.18",
+        "last_release_date": "06 Sep",
+        "otakudesu_url": "https://otakudesu.best/anime/kuroshitsuji-midori-no-majo-hen-subtitle-indonesia/"
+      },
+      {
+        "title": "Teogonia",
+        "slug": "teogonia-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Teogonia-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "6.92",
+        "last_release_date": "31 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/teogonia-sub-indo/"
+      },
+      {
+        "title": "Ninja to Koroshiya no Futarigurashi",
+        "slug": "ninja-koroshiya-futarigurashi-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Ninja-to-Koroshiya-no-Futarigurashi-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "7.62",
+        "last_release_date": "29 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/ninja-koroshiya-futarigurashi-sub-indo/"
+      },
+      {
+        "title": "Kidou Senshi Gundam: GQuuuuuuX",
+        "slug": "kidou-gundam-gquuuuuux-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Kidou-Senshi-Gundam-GQuuuuuuX-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "7.04",
+        "last_release_date": "24 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/kidou-gundam-gquuuuuux-sub-indo/"
+      },
+      {
+        "title": "Takopii no Genzai",
+        "slug": "takopii-genzai-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Takopii-no-Genzai-Sub-Indo.jpg",
+        "episode_count": "6",
+        "rating": "8.91",
+        "last_release_date": "14 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/takopii-genzai-sub-indo/"
+      },
+      {
+        "title": "Maebashi Witches",
+        "slug": "maebashi-witches-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Maebashi-Witches-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "7.00",
+        "last_release_date": "12 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/maebashi-witches-sub-indo/"
+      },
+      {
+        "title": "Zatsu Tabi: That's Journey",
+        "slug": "zatsu-tabi-journey-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Zatsu-Tabi-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "6.93",
+        "last_release_date": "05 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/zatsu-tabi-journey-sub-indo/"
+      },
+      {
+        "title": "Your Forma",
+        "slug": "your-forma-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Your-Forma-Sub-Indo.jpg",
+        "episode_count": "13",
+        "rating": "6.25",
+        "last_release_date": "05 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/your-forma-sub-indo/"
+      },
+      {
+        "title": "Nazotoki wa Dinner no Ato de",
+        "slug": "nazotoki-dinner-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Nazotoki-wa-Dinner-no-Ato-de-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "6.48",
+        "last_release_date": "04 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/nazotoki-dinner-sub-indo/"
+      },
+      {
+        "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+        "slug": "ore-seikan-kokka-akutoku-rousu-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "7.02",
+        "last_release_date": "03 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/ore-seikan-kokka-akutoku-rousu-sub-indo/"
+      },
+      {
+        "title": "Aharen-san wa Hakarenai Season 2",
+        "slug": "aharen-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/08/Aharen-san-wa-Hakarenai-Season-2-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "7.49",
+        "last_release_date": "01 Agu",
+        "otakudesu_url": "https://otakudesu.best/anime/aharen-s2-sub-indo/"
+      },
+      {
+        "title": "Shoushimin Series Season 2",
+        "slug": "shoushimin-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Shoushimin-Series-Season-2-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "8.06",
+        "last_release_date": "30 Jul",
+        "otakudesu_url": "https://otakudesu.best/anime/shoushimin-s2-sub-indo/"
+      },
+      {
+        "title": "Slime Taoshite 300-nen Season 2",
+        "slug": "slime-taoshite-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Slime-Taoshite-300-nen-Season-2-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "6.69",
+        "last_release_date": "30 Jul",
+        "otakudesu_url": "https://otakudesu.best/anime/slime-taoshite-s2-sub-indo/"
+      },
+      {
+        "title": "Enen no Shouboutai Season 3",
+        "slug": "enen-shouboutai-season-3-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Enen-no-Shouboutai-Season-3-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "7.71",
+        "last_release_date": "27 Jul",
+        "otakudesu_url": "https://otakudesu.best/anime/enen-shouboutai-season-3-sub-indo/"
+      },
+      {
+        "title": "The Beginning After the End",
+        "slug": "saikyou-ousama-nidome-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/06/The-Beginning-After-the-End-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "6.13",
+        "last_release_date": "24 Jul",
+        "otakudesu_url": "https://otakudesu.best/anime/saikyou-ousama-nidome-sub-indo/"
+      },
+      {
+        "title": "Wind Breaker Season 2",
+        "slug": "wind-breaker-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Wind-Breaker-Season-2-Sub-Indo.jpg",
+        "episode_count": "12",
+        "rating": "7.66",
+        "last_release_date": "22 Jul",
+        "otakudesu_url": "https://otakudesu.best/anime/wind-breaker-s2-sub-indo/"
+      }
+    ]
+  }
+}

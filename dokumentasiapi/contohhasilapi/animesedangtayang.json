@@ -1,0 +1,241 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "data": {
+    "paginationData": {
+      "current_page": 1,
+      "last_visible_page": 5,
+      "has_next_page": true,
+      "next_page": 2,
+      "has_previous_page": false,
+      "previous_page": null
+    },
+    "ongoingAnimeData": [
+      {
+        "title": "Let's Play: Quest-darake no My Life",
+        "slug": "lets-play-quest-my-life-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151678.jpg",
+        "current_episode": "Total 10 Eps",
+        "release_day": "Kamis",
+        "newest_release_date": "04 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/lets-play-quest-my-life-sub-indo/"
+      },
+      {
+        "title": "Wandance",
+        "slug": "wandnce-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151524.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Kamis",
+        "newest_release_date": "04 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/wandnce-sub-indo/"
+      },
+      {
+        "title": "Mushoku no Eiyuu",
+        "slug": "mushoku-eiyuu-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Mushoku-no-Eiyuu.jpg",
+        "current_episode": "Total 11 Eps",
+        "release_day": "Kamis",
+        "newest_release_date": "04 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/mushoku-eiyuu-sub-indo/"
+      },
+      {
+        "title": "Kimi to Koete Koi ni Naru",
+        "slug": "kimi-koete-koi-naru-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Kimi-to-Koete-Koi-ni-Naru.jpg",
+        "current_episode": "Total 8 Eps",
+        "release_day": "Rabu",
+        "newest_release_date": "03 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/kimi-koete-koi-naru-sub-indo/"
+      },
+      {
+        "title": "Ninja to Gokudou",
+        "slug": "ninja-gokudou-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Ninja-to-Gokudou.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Rabu",
+        "newest_release_date": "03 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/ninja-gokudou-sub-indo/"
+      },
+      {
+        "title": "Chitose-kun wa Ramune Bin no Naka",
+        "slug": "chitose-ramune-bin-naka-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Chitose-kun-wa-Ramune-Bin-no-Naka-Subtitle-Indonesia.jpg",
+        "current_episode": "Total 6 Eps",
+        "release_day": "Selasa",
+        "newest_release_date": "03 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/chitose-ramune-bin-naka-sub-indo/"
+      },
+      {
+        "title": "Tondemo Skill de Isekai Hourou Meshi Season 2",
+        "slug": "tondemo-isekai-meshi-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151772.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Rabu",
+        "newest_release_date": "03 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/tondemo-isekai-meshi-s2-sub-indo/"
+      },
+      {
+        "title": "Isekai Quartet Season 3",
+        "slug": "isekai-quart-season-3-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/11/152103.jpg",
+        "current_episode": "Total 8 Eps",
+        "release_day": "Selasa",
+        "newest_release_date": "02 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/isekai-quart-season-3-sub-indo/"
+      },
+      {
+        "title": "Egao no Taenai Shokuba desu.",
+        "slug": "egao-taenai-shokuba-desu-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Egao-no-Taenai-Shokuba-desu..jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Selasa",
+        "newest_release_date": "02 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/egao-taenai-shokuba-desu-sub-indo/"
+      },
+      {
+        "title": "Gintama 3-nen Z-gumi Ginpachi-sensei",
+        "slug": "3z-gumi-ginpachi-sensei-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/3-nen-Z-gumi-Ginpachi-sensei.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Selasa",
+        "newest_release_date": "02 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/3z-gumi-ginpachi-sensei-sub-indo/"
+      },
+      {
+        "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+        "slug": "sutetsuyo-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151118.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Selasa",
+        "newest_release_date": "02 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/sutetsuyo-sub-indo/"
+      },
+      {
+        "title": "Sozai Saishuka no Isekai Ryokouki",
+        "slug": "sozai-isekai-ryokouki-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Sozai-Saishuka-no-Isekai-Ryokouki-Sub.jpg",
+        "current_episode": "Total 10 Eps",
+        "release_day": "Selasa",
+        "newest_release_date": "02 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/sozai-isekai-ryokouki-sub-indo/"
+      },
+      {
+        "title": "Mofa Gongzhu de Xiao Fannao",
+        "slug": "mofa-fannaoi-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Who-Made-Me-a-Princess-Subtitle-Indonesia.jpg",
+        "current_episode": "Total 12 Eps",
+        "release_day": "Senin",
+        "newest_release_date": "02 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/mofa-fannaoi-sub-indo/"
+      },
+      {
+        "title": "Alma-chan wa Kazoku ni Naritai",
+        "slug": "alma-kazoku-naritai-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Alma-chan-wa-Kazoku-ni-Naritai.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "01 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/alma-kazoku-naritai-sub-indo/"
+      },
+      {
+        "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+        "slug": "chichi-haha-seirei-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151799.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "01 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/chichi-haha-seirei-sub-indo/"
+      },
+      {
+        "title": "One Piece",
+        "slug": "1piece-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2021/05/One-Piece-Sub-Indo.jpg",
+        "current_episode": "Total 1151 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "01 Des",
+        "otakudesu_url": "https://otakudesu.best/anime/1piece-sub-indo/"
+      },
+      {
+        "title": "One Punch Man Season 3",
+        "slug": "punch-man-s3-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/One-Punch-Man-Season-3.jpg",
+        "current_episode": "Total 8 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/punch-man-s3-sub-indo/"
+      },
+      {
+        "title": "Kikaijikake no Marie",
+        "slug": "kikaijikake-marie-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151138.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Senin",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/kikaijikake-marie-sub-indo/"
+      },
+      {
+        "title": "Gachiakuta",
+        "slug": "gachiakuta-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Gachiakuta.jpg",
+        "current_episode": "Total 21 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/gachiakuta-sub-indo/"
+      },
+      {
+        "title": "Ao no Orchestra Season 2",
+        "slug": "orchestra-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151796.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/orchestra-s2-sub-indo/"
+      },
+      {
+        "title": "Shuumatsu Touring",
+        "slug": "shuumatsu-touring-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Shuumatsu-Touring.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/shuumatsu-touring-sub-indo/"
+      },
+      {
+        "title": "SI-VIS: The Sound of Heroes",
+        "slug": "si-vis-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151178.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/si-vis-sub-indo/"
+      },
+      {
+        "title": "Digimon Beatbreak",
+        "slug": "digimon-bb-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Digimon-Beatbreak.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/digimon-bb-sub-indo/"
+      },
+      {
+        "title": "Ranma ½ (2024) Season 2",
+        "slug": "ranma-2024-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/11/152084.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Random",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/ranma-2024-s2-sub-indo/"
+      },
+      {
+        "title": "Kingdom Season 6",
+        "slug": "kngdm-season-6-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151476.jpg",
+        "current_episode": "Total 9 Eps",
+        "release_day": "Minggu",
+        "newest_release_date": "30 Nov",
+        "otakudesu_url": "https://otakudesu.best/anime/kngdm-season-6-sub-indo/"
+      }
+    ]
+  }
+}

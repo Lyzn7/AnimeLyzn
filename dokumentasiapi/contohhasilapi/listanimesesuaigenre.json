@@ -1,0 +1,556 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "data": {
+    "anime": [
+      {
+        "title": "Mizu Zokusei no Mahoutsukai",
+        "slug": "mizu-zokusei-mahoutsukai-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/12/Mizu-Zokusei-no-Mahoutsukai-Sub-Indo.jpg",
+        "rating": "7.07",
+        "episode_count": "12",
+        "season": "Summer 2025",
+        "studio": "Typhoon Graphics, WonderLand",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "name": "Isekai",
+            "slug": "isekai",
+            "otakudesu_url": "https://otakudesu.best/genres/isekai/"
+          },
+          {
+            "name": "Reincarnation",
+            "slug": "reincarnation",
+            "otakudesu_url": "https://otakudesu.best/genres/reincarnation/"
+          }
+        ],
+        "synopsis": "Setelah tewas karena sebuah kecelakaan, Ryou kembali berienkarnasi di dunia lain. Di dunia baru ini, ia hidup dengan sangat santai. Walau begitu, setiap harinya Ryou selalu berlatih dengan sihir air yang selalu ia asah.Har-hari yang ia lalui mulai dari pertarungan dengan Dullahan hingga Assassin Hawk. Tanpa sadar, Ryou kini menjadi salah satu penyihir paling hebat di dunia tersebut. Setelahnya, kehidupan Ryou mulai berubah dan kehidupan santainya kini menjadi berkurang.",
+        "otakudesu_url": "https://otakudesu.best/anime/mizu-zokusei-mahoutsukai-sub-indo/"
+      },
+      {
+        "title": "Ninja to Gokudou",
+        "slug": "ninja-gokudou-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Ninja-to-Gokudou.jpg",
+        "rating": "",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "Studio Deen",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adult Cast",
+            "slug": "adult-cast",
+            "otakudesu_url": "https://otakudesu.best/genres/adult-cast/"
+          },
+          {
+            "name": "Martial Arts",
+            "slug": "martial-arts",
+            "otakudesu_url": "https://otakudesu.best/genres/martial-arts/"
+          },
+          {
+            "name": "Organized Crime",
+            "slug": "organized-crime",
+            "otakudesu_url": "https://otakudesu.best/genres/organized-crime/"
+          }
+        ],
+        "synopsis": "Ninja, mereka yang kini telah bersembunyi dalam bayangan sembari mengalahkan para penjahat. Sementara itu, ada Gokudou yang menjalankan berbagai bisnis gelap dan menjadi sasaran para ninja untuk dihancurkan.Setelah jaman Edo, kini para Ninja dan Gokudou mulai dilupakan. Namun, kedatangan Shinoha Tanaka dan Kiwami Kimura membuat perseteruan kedunya kembali memanas. Menariknya, baik Tanaka dan Kimura tidak mengetahui identitas masing-masing hingga mereka dipertemukan pada sebuah pertempuran.",
+        "otakudesu_url": "https://otakudesu.best/anime/ninja-gokudou-sub-indo/"
+      },
+      {
+        "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+        "slug": "sutetsuyo-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151118.jpg",
+        "rating": "",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "Sunrise",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adventure",
+            "slug": "adventure",
+            "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "name": "Isekai",
+            "slug": "isekai",
+            "otakudesu_url": "https://otakudesu.best/genres/isekai/"
+          }
+        ],
+        "synopsis": "Akira Oda, seorang siswa SMA dengan hawa keberadaan yang tipis ini dipanggil ke dunia lain bersama dengan teman kelasnya. Di sana, seluruh temannya mendapatkan berbagai kemampuan guna mengalahkan raja iblis.Menariknya, Akira mendapatkan status sebagai Pembunuh Bayaran dengan seluruh skill yang melampaui pahlawan. Akira yang juga menaruh curiga pada raja pun mulai menyelediki alasan sebenarnya dari pemanggilannya serta teman kelasnya.Kini, Akira pun perlahan mengetahui rahasia yang disimpan oleh kerajaan dan bertekad untuk membongkarnya.",
+        "otakudesu_url": "https://otakudesu.best/anime/sutetsuyo-sub-indo/"
+      },
+      {
+        "title": "One Piece",
+        "slug": "1piece-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2021/05/One-Piece-Sub-Indo.jpg",
+        "rating": "8.54",
+        "episode_count": "?",
+        "season": "Fall 1999",
+        "studio": "Toei Animation",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adventure",
+            "slug": "adventure",
+            "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "name": "Comedy",
+            "slug": "comedy",
+            "otakudesu_url": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "name": "Drama",
+            "slug": "drama",
+            "otakudesu_url": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "name": "Shounen",
+            "slug": "shounen",
+            "otakudesu_url": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "name": "Super Power",
+            "slug": "super-power",
+            "otakudesu_url": "https://otakudesu.best/genres/super-power/"
+          }
+        ],
+        "synopsis": "Dulu, ada seorang bajak laut terkenal di seluruh lautan bernama Gol D. Roger. Ia merupakan seorang raja bajak laut yang telah berlayar mengarungi seluruh Grand Line, sayangnya ia ditangkap pemerintah dan telah dieksekusi mati. Sesaat sebelum kematiannya, Ia mengumumkan kepada dunia bahwa dirinya menyimpan sebuah harta karun bernama One Piece, sebuah harta karun yang kini menjadi incaran seluruh bajak laut yang ada di dunia.Di Era Bajak Laut saat ini, ada seorang remaja bernama Monkey D. Luffy yang memiliki cita-cita untuk menjadi seorang Raja Bajak Laut. Namun Luffy sadar bahwa ia tidak bisa melakukannya sendiri, sembari dalam perjalanan ia juga mencari kru dan bertemu dengan teman-temannya yang baru. Berbeda dengan bajak laut lain yang ganas dan jahat, Luffy bersama teman-temannya berlayar murni atas dasar petualangan serta mencari tempat tempat baru yang akan muncul di hadapan mereka.Di perjalanan inilah cerita mereka dimulai, mampukan Luffy bersama teman-temannya mencapai impian mereka?(Info: Episode sebelumnya akan ditambahkan secara berkala)",
+        "otakudesu_url": "https://otakudesu.best/anime/1piece-sub-indo/"
+      },
+      {
+        "title": "One Punch Man Season 3",
+        "slug": "punch-man-s3-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/One-Punch-Man-Season-3.jpg",
+        "rating": "7.14",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "J.C.Staff",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adult Cast",
+            "slug": "adult-cast",
+            "otakudesu_url": "https://otakudesu.best/genres/adult-cast/"
+          },
+          {
+            "name": "Comedy",
+            "slug": "comedy",
+            "otakudesu_url": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "name": "Parody",
+            "slug": "parody",
+            "otakudesu_url": "https://otakudesu.best/genres/parody/"
+          },
+          {
+            "name": "Seinen",
+            "slug": "seinen",
+            "otakudesu_url": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "name": "Super Power",
+            "slug": "super-power",
+            "otakudesu_url": "https://otakudesu.best/genres/super-power/"
+          }
+        ],
+        "synopsis": "",
+        "otakudesu_url": "https://otakudesu.best/anime/punch-man-s3-sub-indo/"
+      },
+      {
+        "title": "Gachiakuta",
+        "slug": "gachiakuta-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Gachiakuta.jpg",
+        "rating": "7.78",
+        "episode_count": "24",
+        "season": "Summer 2025",
+        "studio": "Bones Film",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "name": "Shounen",
+            "slug": "shounen",
+            "otakudesu_url": "https://otakudesu.best/genres/shounen/"
+          }
+        ],
+        "synopsis": "Mengisahkan dua tempat dengan lingkungan yang jauh berbeda. Di tempat kumuh ini, masyarakat hidup di bawah standar dan mereka yang kaya memandang masyarakat kumuh dengan penuh tatapan jijik.Cerita pun berpusat kepada Rudo, anak yatim piatu yang tinggal di daerah kumuh bersama dengan ayah angkatnya Regto. Suatu hari, Rudo di tuduh membunuh Regto dan ia mendapatkan hukuman dengan dilempar ke Lubang Neraka.Kini, Rudo harus menghadapi hidup yang lebih sulit setelah ia berada di dasar Lubang Neraka.",
+        "otakudesu_url": "https://otakudesu.best/anime/gachiakuta-sub-indo/"
+      },
+      {
+        "title": "Tate no Yuusha no Nariagari Season 4",
+        "slug": "tate-yuusha-nariagari-s4-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/11/Tate-no-Yuusha-no-Nariagari-Season-4-Sub-Indo.jpg",
+        "rating": "6.91",
+        "episode_count": "12",
+        "season": "Summer 2025",
+        "studio": "Kinema Citrus",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adventure",
+            "slug": "adventure",
+            "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "name": "Drama",
+            "slug": "drama",
+            "otakudesu_url": "https://otakudesu.best/genres/drama/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "name": "Isekai",
+            "slug": "isekai",
+            "otakudesu_url": "https://otakudesu.best/genres/isekai/"
+          }
+        ],
+        "synopsis": "Musim keempat anime Tate no Yuusha no NariagariTonton juga kelanjutannya:1. Tate no Yuusha no Nariagari2. Tate no Yuusha no Nariagari Season 23. Tate no Yuusha no Nariagari Season 34. Tate no Yuusha no Nariagari Season 4",
+        "otakudesu_url": "https://otakudesu.best/anime/tate-yuusha-nariagari-s4-sub-indo/"
+      },
+      {
+        "title": "Digimon Beatbreak",
+        "slug": "digimon-bb-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Digimon-Beatbreak.jpg",
+        "rating": "",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "Toei Animation",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adventure",
+            "slug": "adventure",
+            "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "name": "Comedy",
+            "slug": "comedy",
+            "otakudesu_url": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "name": "Sci-Fi",
+            "slug": "sci-fi",
+            "otakudesu_url": "https://otakudesu.best/genres/sci-fi/"
+          }
+        ],
+        "synopsis": "Di masa depan nanti, e-Pulse kini mampu membentuk pikirin serta emosi manusia dan digunakan sebagai energi untuk AI bernama Sapotama. Namun, pengembangan AI tersebut tidak lepas dari monster yang memakan e-Pulse.Cerita pun berpusat kepada Tomoro Tenma yang memiliki sebuah kekuatan unik yaitu ia mampu merusak Sapotama seseorang hanya dengan menyentuhnya.  Suatu hari, ia bertemu dengan Gekkomon dan diminta untuk mengikutinya ke suatu tempat.Sesampainya di sana, ia mendapati kakaknya yang tengah bertarung dengan monster. Sayangnya, sang kakak harus mengorbankan diri untuk menyelamatkan Tenma. Kini, kehidupan Tenma telah berubah setelah pertemuannya dengan Gekkomon. ",
+        "otakudesu_url": "https://otakudesu.best/anime/digimon-bb-sub-indo/"
+      },
+      {
+        "title": "Ranma ½ (2024) Season 2",
+        "slug": "ranma-2024-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/11/152084.jpg",
+        "rating": "8.04",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "MAPPA",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Comedy",
+            "slug": "comedy",
+            "otakudesu_url": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "name": "Ecchi",
+            "slug": "ecchi",
+            "otakudesu_url": "https://otakudesu.best/genres/ecchi/"
+          },
+          {
+            "name": "Martial Arts",
+            "slug": "martial-arts",
+            "otakudesu_url": "https://otakudesu.best/genres/martial-arts/"
+          },
+          {
+            "name": "Romance",
+            "slug": "romance",
+            "otakudesu_url": "https://otakudesu.best/genres/romance/"
+          },
+          {
+            "name": "School",
+            "slug": "school",
+            "otakudesu_url": "https://otakudesu.best/genres/school/"
+          },
+          {
+            "name": "Shounen",
+            "slug": "shounen",
+            "otakudesu_url": "https://otakudesu.best/genres/shounen/"
+          }
+        ],
+        "synopsis": "Musim kedua Ranma ½ (2024)",
+        "otakudesu_url": "https://otakudesu.best/anime/ranma-2024-s2-sub-indo/"
+      },
+      {
+        "title": "Kingdom Season 6",
+        "slug": "kngdm-season-6-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151476.jpg",
+        "rating": "7.73",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "Studio Pierrot, Studio Signpost",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Historical",
+            "slug": "historical",
+            "otakudesu_url": "https://otakudesu.best/genres/historical/"
+          },
+          {
+            "name": "Military",
+            "slug": "military",
+            "otakudesu_url": "https://otakudesu.best/genres/military/"
+          },
+          {
+            "name": "Seinen",
+            "slug": "seinen",
+            "otakudesu_url": "https://otakudesu.best/genres/seinen/"
+          }
+        ],
+        "synopsis": "",
+        "otakudesu_url": "https://otakudesu.best/anime/kngdm-season-6-sub-indo/"
+      },
+      {
+        "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+        "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Toujima-Tanzaburou-wa-Kamen-Rider-ni-Naritai-Sub-Indo.jpg",
+        "rating": "7.67",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "LIDENFILMS",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adult Cast",
+            "slug": "adult-cast",
+            "otakudesu_url": "https://otakudesu.best/genres/adult-cast/"
+          },
+          {
+            "name": "Comedy",
+            "slug": "comedy",
+            "otakudesu_url": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "name": "Seinen",
+            "slug": "seinen",
+            "otakudesu_url": "https://otakudesu.best/genres/seinen/"
+          },
+          {
+            "name": "Super Power",
+            "slug": "super-power",
+            "otakudesu_url": "https://otakudesu.best/genres/super-power/"
+          }
+        ],
+        "synopsis": "Sejak kecil dulu, Tanzaburou Toujima memiliki cita-cita untuk menjadi seorang Kamen Rider. Sayangnya, hal tersebut urung terjadi. Kini, Toujima yang telah berusia 40 tahun telah mengubur mimpi tersebut dalam-dalam.Namun suatu hari, Toujima yang berada di sebuah festival terlibat dalam kasus Shocker yang cukup menyita perhatian. Setelah berhasil mengalahkan para Shocker, Toujima kini menjadi viral dan dikenal oleh banyak orang.",
+        "otakudesu_url": "https://otakudesu.best/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-sub-indo/"
+      },
+      {
+        "title": "Nageki no Bourei wa Intai shitai Season 2",
+        "slug": "ageki-bourei-intai-shitai-s2-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152063-1.jpg",
+        "rating": "",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "Zero-G",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adventure",
+            "slug": "adventure",
+            "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          }
+        ],
+        "synopsis": "",
+        "otakudesu_url": "https://otakudesu.best/anime/ageki-bourei-intai-shitai-s2-sub-indo/"
+      },
+      {
+        "title": "Yasei no Last Boss ga Arawareta!",
+        "slug": "yasei-last-bos-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/09/aaaa.jpg",
+        "rating": "",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "WAO World",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adventure",
+            "slug": "adventure",
+            "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          },
+          {
+            "name": "Isekai",
+            "slug": "isekai",
+            "otakudesu_url": "https://otakudesu.best/genres/isekai/"
+          }
+        ],
+        "synopsis": "Dulu, ada seorang raja yang begitu mendominasi dan berhasil menaklukkan dunia. Nama raja tersebut adalah Ruphas Mafahl, seorang wanita dengan julukan Tiran Bersayap Hitam. Dirinya sangatlah kuat dan juga cantik. Namun, sayangnya Ruphas gagal mengalahkan para pahlawan.Suatu hari, seorang pria tiba-tiba dipanggil ke dunia tersebut dan masuk ke dalam tubuh Ruphas. Tentunya, ia terkejut karena perubahan yang mendadak tersebut. Namun, ia sudah kenal dengan karakter Ruphas karena telah memainkan game tersebut.Mampukah dirinya menjalani kehidupan di dunia tersebut?",
+        "otakudesu_url": "https://otakudesu.best/anime/yasei-last-bos-sub-indo/"
+      },
+      {
+        "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi",
+        "slug": "mikata-yowasugite-hojo-mahou-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Mikata-ga-Yowasugite-Hojo-Mahou-ni-Tesshiteita-Kyuutei-Mahoushi-Sub-Indo.jpg",
+        "rating": "",
+        "episode_count": "12",
+        "season": "Fall 2025",
+        "studio": "Gekkou",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Adventure",
+            "slug": "adventure",
+            "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+          },
+          {
+            "name": "Fantasy",
+            "slug": "fantasy",
+            "otakudesu_url": "https://otakudesu.best/genres/fantasy/"
+          }
+        ],
+        "synopsis": "Alec Ygret, seorang penyihir istana yang menghabiskan hidupnya untuk membantu pangeran mahkota Regulus Gardana. Sayangnya, Alec yang hanya mampu menggunakan sihir pendukung saja justru diusir oleh sang pengaran dari partynya.Setelah diusir, Alec bertemu dengan Yorha Eisenz, teman sekelasnya ketika masih berada di Akademi Sihir dulu. Mengetahui Alec telah keluar dari party sang pangeran, Yorha mengajaknya bergabung dengan Lasting Period, party yang dibentuk olehnya.Kini, hadirnya Alec kembali ke Lasting Period membuka lembaran baru tentang party paling legendaris saat itu.",
+        "otakudesu_url": "https://otakudesu.best/anime/mikata-yowasugite-hojo-mahou-sub-indo/"
+      },
+      {
+        "title": "Spy x Family Season 3",
+        "slug": "spy-family-s3-sub-indo",
+        "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Spy-x-Family-Season-3.jpg",
+        "rating": "7.64",
+        "episode_count": null,
+        "season": "Fall 2025",
+        "studio": "Wit Studio, CloverWorks",
+        "genres": [
+          {
+            "name": "Action",
+            "slug": "action",
+            "otakudesu_url": "https://otakudesu.best/genres/action/"
+          },
+          {
+            "name": "Childcare",
+            "slug": "childcare",
+            "otakudesu_url": "https://otakudesu.best/genres/childcare/"
+          },
+          {
+            "name": "Comedy",
+            "slug": "comedy",
+            "otakudesu_url": "https://otakudesu.best/genres/comedy/"
+          },
+          {
+            "name": "Shounen",
+            "slug": "shounen",
+            "otakudesu_url": "https://otakudesu.best/genres/shounen/"
+          },
+          {
+            "name": "Super Power",
+            "slug": "super-power",
+            "otakudesu_url": "https://otakudesu.best/genres/super-power/"
+          }
+        ],
+        "synopsis": "",
+        "otakudesu_url": "https://otakudesu.best/anime/spy-family-s3-sub-indo/"
+      }
+    ],
+    "pagination": {
+      "current_page": 1,
+      "last_visible_page": 44,
+      "has_next_page": true,
+      "next_page": 2,
+      "has_previous_page": false,
+      "previous_page": null
+    }
+  }
+}

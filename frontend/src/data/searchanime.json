@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "data": [
+    {
+      "title": "Boruto: Naruto Next Generations Subtitle Indonesia",
+      "slug": "borot-sub-indo",
+      "poster": "https://otakudesu.best/wp-content/uploads/2020/05/Boruto-Sub-Indo.jpg",
+      "genres": [
+        {
+          "name": "Action",
+          "slug": "action",
+          "otakudesu_url": "https://otakudesu.best/genres/action/"
+        },
+        {
+          "name": "Adventure",
+          "slug": "adventure",
+          "otakudesu_url": "https://otakudesu.best/genres/adventure/"
+        },
+        {
+          "name": "Martial Arts",
+          "slug": "martial-arts",
+          "otakudesu_url": "https://otakudesu.best/genres/martial-arts/"
+        },
+        {
+          "name": "Shounen",
+          "slug": "shounen",
+          "otakudesu_url": "https://otakudesu.best/genres/shounen/"
+        },
+        {
+          "name": "Super Power",
+          "slug": "super-power",
+          "otakudesu_url": "https://otakudesu.best/genres/super-power/"
+        }
+      ],
+      "status": "Ongoing",
+      "rating": "6.15",
+      "url": "https://otakudesu.best/anime/borot-sub-indo/"
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "status": "success",
+  "creator": "Sanka Vollerei",
+  "data": [
+    {
+      "day": "Senin",
+      "anime_list": [
+        {
+          "anime_name": "City The Animation",
+          "url": "/anime/city-the-animation-sub-indo",
+          "slug": "city-the-animation-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/City-The-Animation.jpg"
+        },
+        {
+          "anime_name": "Kijin Gentoushou",
+          "url": "/anime/kijin-gentosou-sub-indo",
+          "slug": "kijin-gentosou-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/03/Kijin-Gentoushou.png"
+        },
+        {
+          "anime_name": "Kikaijikake no Marie",
+          "url": "/anime/kikaijikake-marie-sub-indo",
+          "slug": "kikaijikake-marie-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151138.jpg"
+        },
+        {
+          "anime_name": "Mofa Gongzhu de Xiao Fannao",
+          "url": "/anime/mofa-fannaoi-sub-indo",
+          "slug": "mofa-fannaoi-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Who-Made-Me-a-Princess-Subtitle-Indonesia.jpg"
+        },
+        {
+          "anime_name": "Watashi no Shiawase na Kekkon Season 2",
+          "url": "/anime/watashi-shiawase-s2-sub-indo",
+          "slug": "watashi-shiawase-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146770.jpg"
+        }
+      ]
+    },
+    {
+      "day": "Selasa",
+      "anime_list": [
+        {
+          "anime_name": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+          "url": "/anime/sutetsuyo-sub-indo",
+          "slug": "sutetsuyo-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151118.jpg"
+        },
+        {
+          "anime_name": "Chitose-kun wa Ramune Bin no Naka",
+          "url": "/anime/chitose-ramune-bin-naka-sub-indo",
+          "slug": "chitose-ramune-bin-naka-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Chitose-kun-wa-Ramune-Bin-no-Naka-Subtitle-Indonesia.jpg"
+        },
+        {
+          "anime_name": "Egao no Taenai Shokuba desu.",
+          "url": "/anime/egao-taenai-shokuba-desu-sub-indo",
+          "slug": "egao-taenai-shokuba-desu-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Egao-no-Taenai-Shokuba-desu..jpg"
+        },
+        {
+          "anime_name": "Fate/strange Fake",
+          "url": "/anime/fate-fake-whisper-sub-indo",
+          "slug": "fate-fake-whisper-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/12/132201-1.jpg"
+        },
+        {
+          "anime_name": "Gintama 3-nen Z-gumi Ginpachi-sensei",
+          "url": "/anime/3z-gumi-ginpachi-sensei-sub-indo",
+          "slug": "3z-gumi-ginpachi-sensei-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/3-nen-Z-gumi-Ginpachi-sensei.jpg"
+        },
+        {
+          "anime_name": "Grand Blue Season 2",
+          "url": "/anime/grand-the-blue-s2-sub-indo",
+          "slug": "grand-the-blue-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Grand-Blue-Season-2-Sub.jpg"
+        },
+        {
+          "anime_name": "Isekai Quartet Season 3",
+          "url": "/anime/isekai-quart-season-3-sub-indo",
+          "slug": "isekai-quart-season-3-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/11/152103.jpg"
+        },
+        {
+          "anime_name": "Ruri no Houseki",
+          "url": "/anime/ruri-no-houseki-sub-indo",
+          "slug": "ruri-no-houseki-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Ruri-no-Houseki.jpg"
+        },
+        {
+          "anime_name": "Sozai Saishuka no Isekai Ryokouki",
+          "url": "/anime/sozai-isekai-ryokouki-sub-indo",
+          "slug": "sozai-isekai-ryokouki-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Sozai-Saishuka-no-Isekai-Ryokouki-Sub.jpg"
+        },
+        {
+          "anime_name": "Summer Pockets",
+          "url": "/anime/summer-pocket-sub-indo",
+          "slug": "summer-pocket-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/04/Otakudesu.io_MYAG-01_360p.jpg"
+        },
+        {
+          "anime_name": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+          "url": "/anime/toujima-tanzaburou-wa-kamen-rider-ni-naritai-sub-indo",
+          "slug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Toujima-Tanzaburou-wa-Kamen-Rider-ni-Naritai-Sub-Indo.jpg"
+        }
+      ]
+    },
+    {
+      "day": "Rabu",
+      "anime_list": [
+        {
+          "anime_name": "Kimi to Koete Koi ni Naru",
+          "url": "/anime/kimi-koete-koi-naru-sub-indo",
+          "slug": "kimi-koete-koi-naru-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Kimi-to-Koete-Koi-ni-Naru.jpg"
+        },
+        {
+          "anime_name": "Ninja to Gokudou",
+          "url": "/anime/ninja-gokudou-sub-indo",
+          "slug": "ninja-gokudou-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Ninja-to-Gokudou.jpg"
+        },
+        {
+          "anime_name": "Tondemo Skill de Isekai Hourou Meshi Season 2",
+          "url": "/anime/tondemo-isekai-meshi-s2-sub-indo",
+          "slug": "tondemo-isekai-meshi-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151772.jpg"
+        },
+        {
+          "anime_name": "Yano-kun no Futsuu no Hibi",
+          "url": "/anime/yano-futsuu-hibi-sub-indo",
+          "slug": "yano-futsuu-hibi-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Yano-kun-no-Futsuu-no-Hibi.jpg"
+        }
+      ]
+    },
+    {
+      "day": "Kamis",
+      "anime_list": [
+        {
+          "anime_name": "Ameku Takao no Suiri Karte",
+          "url": "/anime/ameku-karte-sub-indo",
+          "slug": "ameku-karte-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/01/Ameku-Takao-no-Suiri-Karte.jpg"
+        },
+        {
+          "anime_name": "Bukiyou na Senpai.",
+          "url": "/anime/bukiyou-senpai-sub-indo",
+          "slug": "bukiyou-senpai-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/BYNS-1.jpg"
+        },
+        {
+          "anime_name": "Dr. Stone Season 4 Part 2",
+          "url": "/anime/ds-future-part2-sub-indo",
+          "slug": "ds-future-part2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/148849.jpg"
+        },
+        {
+          "anime_name": "Jigoku Sensei Nube (2025)",
+          "url": "/anime/jigoku-sensei-2025-sub-indo",
+          "slug": "jigoku-sensei-2025-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Jigoku-Sensei-Nube-2025.jpg"
+        },
+        {
+          "anime_name": "Kakuriyo no Yadomeshi Ni",
+          "url": "/anime/kakuriyo-yadomeshi-sub-indo",
+          "slug": "kakuriyo-yadomeshi-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Kakuriyo-no-Yadomeshi-Ni.jpg"
+        },
+        {
+          "anime_name": "Kinoko Inu",
+          "url": "/anime/knko-inu-sub-indo",
+          "slug": "knko-inu-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/10/Kinoko-Inu.jpg"
+        },
+        {
+          "anime_name": "Let's Play: Quest-darake no My Life",
+          "url": "/anime/lets-play-quest-my-life-sub-indo",
+          "slug": "lets-play-quest-my-life-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151678.jpg"
+        },
+        {
+          "anime_name": "Mushoku no Eiyuu",
+          "url": "/anime/mushoku-eiyuu-sub-indo",
+          "slug": "mushoku-eiyuu-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/09/Mushoku-no-Eiyuu.jpg"
+        },
+        {
+          "anime_name": "Tensei Akujo no Kuro Rekishi",
+          "url": "/anime/tensei-akujo-kuro-rekishi-sub-indo",
+          "slug": "tensei-akujo-kuro-rekishi-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/150603.jpg"
+        },
+        {
+          "anime_name": "Tensei shitara Dainana Ouji Datta node Season 2",
+          "url": "/anime/tensei-datta-node-s2-sub-indo",
+          "slug": "tensei-datta-node-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/149614.jpg"
+        },
+        {
+          "anime_name": "Touhai: Ura Rate Mahjong Touhai Roku",
+          "url": "/anime/touharate-mahjong-sub-indo",
+          "slug": "touharate-mahjong-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/10/145571.jpg"
+        },
+        {
+          "anime_name": "Wandance",
+          "url": "/anime/wandnce-sub-indo",
+          "slug": "wandnce-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151524.jpg"
+        }
+      ]
+    },
+    {
+      "day": "Jumat",
+      "anime_list": [
+        {
+          "anime_name": "Akujiki Reijou to Kyouketsu Koushaku",
+          "url": "/anime/akujiki-reijou-kyouketsu-koushaku-sub-indo",
+          "slug": "akujiki-reijou-kyouketsu-koushaku-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152012.jpg"
+        },
+        {
+          "anime_name": "Around 40 Otoko no Isekai Tsuuhan",
+          "url": "/anime/around-40-otoko-isekai-tsuuhan-sub-indo",
+          "slug": "around-40-otoko-isekai-tsuuhan-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146512.jpg"
+        },
+        {
+          "anime_name": "BanG Dream! Ave Mujica",
+          "url": "/anime/bang-dream-ave-mujica-sub-indo",
+          "slug": "bang-dream-ave-mujica-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146762.jpg"
+        },
+        {
+          "anime_name": "Mecha-ude (TV)",
+          "url": "/anime/meca-ude-sub-indo",
+          "slug": "meca-ude-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/10/127958.jpg"
+        },
+        {
+          "anime_name": "Mugen Gacha",
+          "url": "/anime/mugen-gacha-sub-indo",
+          "slug": "mugen-gacha-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151246-1.jpg"
+        },
+        {
+          "anime_name": "Senpai wa Otokonoko",
+          "url": "/anime/senpai-otokonoko-sub-indo",
+          "slug": "senpai-otokonoko-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/07/Senpai-wa-Otokonoko.jpg"
+        },
+        {
+          "anime_name": "Tougen Anki",
+          "url": "/anime/tougen-anki-sub-indo",
+          "slug": "tougen-anki-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Tougen-Anki-Subtitle-Indonesia.jpg"
+        },
+        {
+          "anime_name": "Towa no Yuugure",
+          "url": "/anime/towa-yuugure-sub-indo",
+          "slug": "towa-yuugure-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151734.jpg"
+        },
+        {
+          "anime_name": "Watashi wo Tabetai, Hitodenashi",
+          "url": "/anime/watashi-tabetai-hitodenashi-sub-indo",
+          "slug": "watashi-tabetai-hitodenashi-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Watashi-wo-Tabetai-Hitodenashi.jpg"
+        }
+      ]
+    },
+    {
+      "day": "Sabtu",
+      "anime_list": [
+        {
+          "anime_name": "Astro Note",
+          "url": "/anime/astro-n-sub-indo",
+          "slug": "astro-n-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/04/141859.jpg"
+        },
+        {
+          "anime_name": "Boku no Hero Academia Season 8",
+          "url": "/anime/bnha-season-8-sub-indo",
+          "slug": "bnha-season-8-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Boku-no-Hero-Academia-Season-8-Sub-Indo.jpg"
+        },
+        {
+          "anime_name": "Guilty Gear Strive: Dual Rulers",
+          "url": "/anime/guilty-gear-dual-rule-sub-indo",
+          "slug": "guilty-gear-dual-rule-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/04/147623.jpg"
+        },
+        {
+          "anime_name": "Kaijuu 8-gou Season 2",
+          "url": "/anime/kaiju-gou-s2-sub-indo",
+          "slug": "kaiju-gou-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Kaijuu-8-gou-2nd-Season.jpg"
+        },
+        {
+          "anime_name": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+          "url": "/anime/kao-denai-kashiwada-kao-ota-sub-indo",
+          "slug": "kao-denai-kashiwada-kao-ota-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151886.jpg"
+        },
+        {
+          "anime_name": "Kekkon Yubiwa Monogatari Season 2",
+          "url": "/anime/kekkon-monogatari-s2-sub-indo",
+          "slug": "kekkon-monogatari-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Otakudesu.io_KYM.S2-0_Mkv720p.jpg"
+        },
+        {
+          "anime_name": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi",
+          "url": "/anime/mikata-yowasugite-hojo-mahou-sub-indo",
+          "slug": "mikata-yowasugite-hojo-mahou-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Mikata-ga-Yowasugite-Hojo-Mahou-ni-Tesshiteita-Kyuutei-Mahoushi-Sub-Indo.jpg"
+        },
+        {
+          "anime_name": "Momentary Lily",
+          "url": "/anime/momentary-lily-sub-indo",
+          "slug": "momentary-lily-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/01/143656.jpg"
+        },
+        {
+          "anime_name": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+          "url": "/anime/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-sub-indo",
+          "slug": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Saigo-ni-Hitotsu-dake-Onegai-Shitemo-Yoroshii-Deshou-ka.jpg"
+        },
+        {
+          "anime_name": "Sanda",
+          "url": "/anime/sanda-sub-indo",
+          "slug": "sanda-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151767.jpg"
+        },
+        {
+          "anime_name": "Shabake",
+          "url": "/anime/shabake-sub-indo",
+          "slug": "shabake-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152179-1.jpg"
+        },
+        {
+          "anime_name": "Shin Samurai-den Yaiba",
+          "url": "/anime/shin-samurai-sub-indo",
+          "slug": "shin-samurai-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/04/148242.jpg"
+        },
+        {
+          "anime_name": "Silent Witch",
+          "url": "/anime/silent-witch-sub-indo",
+          "slug": "silent-witch-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Silent-Witch.jpg"
+        },
+        {
+          "anime_name": "Spy x Family Season 3",
+          "url": "/anime/spy-family-s3-sub-indo",
+          "slug": "spy-family-s3-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Spy-x-Family-Season-3.jpg"
+        },
+        {
+          "anime_name": "Watari-kun no xx ga Houkai Sunzen",
+          "url": "/anime/watari-xx-ga-houkai-sunzen-sub-indo",
+          "slug": "watari-xx-ga-houkai-sunzen-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Watari-kun-no-xx-ga-Houkai-Sunzen.jpg"
+        }
+      ]
+    },
+    {
+      "day": "Minggu",
+      "anime_list": [
+        {
+          "anime_name": "Alma-chan wa Kazoku ni Naritai",
+          "url": "/anime/alma-kazoku-naritai-sub-indo",
+          "slug": "alma-kazoku-naritai-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Alma-chan-wa-Kazoku-ni-Naritai.jpg"
+        },
+        {
+          "anime_name": "Anne Shirley",
+          "url": "/anime/anne-shirley-sub-indo",
+          "slug": "anne-shirley-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/04/bx184639-tmj8NbTroNeI.jpg"
+        },
+        {
+          "anime_name": "Ao no Orchestra Season 2",
+          "url": "/anime/orchestra-s2-sub-indo",
+          "slug": "orchestra-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151796.jpg"
+        },
+        {
+          "anime_name": "Chanto Suenai Kyuuketsuki-chan",
+          "url": "/anime/chanto-suenai-kyuuketsuki-sub-indo",
+          "slug": "chanto-suenai-kyuuketsuki-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Chanto-Suenai-Kyuuketsuki-chan.jpg"
+        },
+        {
+          "anime_name": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+          "url": "/anime/chichi-haha-seirei-sub-indo",
+          "slug": "chichi-haha-seirei-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151799.jpg"
+        },
+        {
+          "anime_name": "Digimon Beatbreak",
+          "url": "/anime/digimon-bb-sub-indo",
+          "slug": "digimon-bb-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Digimon-Beatbreak.jpg"
+        },
+        {
+          "anime_name": "Fumetsu no Anata e Season 3",
+          "url": "/anime/fna-s3-sub-indo",
+          "slug": "fna-s3-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Fumetsu-no-Anata-e-Season-2-Sub.jpg"
+        },
+        {
+          "anime_name": "Gachiakuta",
+          "url": "/anime/gachiakuta-sub-indo",
+          "slug": "gachiakuta-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Gachiakuta.jpg"
+        },
+        {
+          "anime_name": "Game Center Shoujo to Ibunka Kouryuu",
+          "url": "/anime/game-center-shoujo-ibunka-kouryuu-sub-indo",
+          "slug": "game-center-shoujo-ibunka-kouryuu-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Game-Center-Shoujo-to-Ibunka-Kouryuu.jpg"
+        },
+        {
+          "anime_name": "Gnosia",
+          "url": "/anime/gnosia-sub-indo",
+          "slug": "gnosia-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152352.jpg"
+        },
+        {
+          "anime_name": "Hikaru ga Shinda Natsu",
+          "url": "/anime/hikaru-ga-shinda-natsu-sub-indo",
+          "slug": "hikaru-ga-shinda-natsu-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Hikaru-ga-Shinda-Natsu-Subtitle-Indonesia.jpg"
+        },
+        {
+          "anime_name": "Isekai Mokushiroku Mynoghra",
+          "url": "/anime/isekai-mokushiroku-mynoghra-subtitle-indonesia",
+          "slug": "isekai-mokushiroku-mynoghra-subtitle-indonesia",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Isekai-Mokushiroku-Mynoghra.jpg"
+        },
+        {
+          "anime_name": "Kaoru Hana wa Rin to Saku",
+          "url": "/anime/kaoru-hana-wa-rin-to-saku-sub-indo",
+          "slug": "kaoru-hana-wa-rin-to-saku-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/Kaoru-Hana-wa-Rin-to-Saku.jpg"
+        },
+        {
+          "anime_name": "Kingdom Season 6",
+          "url": "/anime/kngdm-season-6-sub-indo",
+          "slug": "kngdm-season-6-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151476.jpg"
+        },
+        {
+          "anime_name": "Nageki no Bourei wa Intai shitai Season 2",
+          "url": "/anime/ageki-bourei-intai-shitai-s2-sub-indo",
+          "slug": "ageki-bourei-intai-shitai-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152063-1.jpg"
+        },
+        {
+          "anime_name": "Nanatsu no Taizai: Mokushiroku no Yonkishi S2",
+          "url": "/anime/nanatsu-taizai-my-s2-sub-indo",
+          "slug": "nanatsu-taizai-my-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/10/Nanatsu-no-Taizai-Mokushiroku-no-Yonkishi-S2-Subtitle-Indonesia.jpg"
+        },
+        {
+          "anime_name": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+          "url": "/anime/okitsura-sub-indo",
+          "slug": "okitsura-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146843.jpg"
+        },
+        {
+          "anime_name": "One Piece",
+          "url": "/anime/1piece-sub-indo",
+          "slug": "1piece-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2021/05/One-Piece-Sub-Indo.jpg"
+        },
+        {
+          "anime_name": "One Punch Man Season 3",
+          "url": "/anime/punch-man-s3-sub-indo",
+          "slug": "punch-man-s3-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/One-Punch-Man-Season-3.jpg"
+        },
+        {
+          "anime_name": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+          "url": "/anime/seishun-buta-yarou-wa-santa-claus-sub-indo",
+          "slug": "seishun-buta-yarou-wa-santa-claus-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/07/149858.jpg"
+        },
+        {
+          "anime_name": "Shuumatsu Touring",
+          "url": "/anime/shuumatsu-touring-sub-indo",
+          "slug": "shuumatsu-touring-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Shuumatsu-Touring.jpg"
+        },
+        {
+          "anime_name": "SI-VIS: The Sound of Heroes",
+          "url": "/anime/si-vis-sub-indo",
+          "slug": "si-vis-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/151178.jpg"
+        },
+        {
+          "anime_name": "Taiyou yori mo Mabushii Hoshi",
+          "url": "/anime/taiyou-yori-mo-mabushii-hoshi-subtitle-indonesia",
+          "slug": "taiyou-yori-mo-mabushii-hoshi-subtitle-indonesia",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/149410.jpg"
+        },
+        {
+          "anime_name": "Tomodachi no Imouto ga Ore ni dake Uzai",
+          "url": "/anime/tomodachi-imouto-dake-uzai-sub-indo",
+          "slug": "tomodachi-imouto-dake-uzai-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/Tomodachi-no-Imouto-ga-Ore-ni-dake-Uzai.jpg"
+        },
+        {
+          "anime_name": "Uma Musume: Cinderella Gray Part 2",
+          "url": "/anime/uma-musume-cinderella-gray-p2-sub-indo",
+          "slug": "uma-musume-cinderella-gray-p2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/10/152280-1.jpg"
+        },
+        {
+          "anime_name": "Witch Watch",
+          "url": "/anime/wch-watch-sub-indo",
+          "slug": "wch-watch-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/04/148017.jpg"
+        },
+        {
+          "anime_name": "Yasei no Last Boss ga Arawareta!",
+          "url": "/anime/yasei-last-bos-sub-indo",
+          "slug": "yasei-last-bos-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/09/aaaa.jpg"
+        }
+      ]
+    },
+    {
+      "day": "Random",
+      "anime_list": [
+        {
+          "anime_name": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+          "url": "/anime/neet-kuoichi-sub-indo",
+          "slug": "neet-kuoichi-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/01/146392.jpg"
+        },
+        {
+          "anime_name": "Ranma ½ (2024) Season 2",
+          "url": "/anime/ranma-2024-s2-sub-indo",
+          "slug": "ranma-2024-s2-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2025/11/152084.jpg"
+        },
+        {
+          "anime_name": "Tonari no Youkai-san",
+          "url": "/anime/tonari-youkai-sub-indo",
+          "slug": "tonari-youkai-sub-indo",
+          "poster": "https://otakudesu.best/wp-content/uploads/2024/04/Tonari-no-Youkai-san.jpg"
+        }
+      ]
+    }
+  ]
+}

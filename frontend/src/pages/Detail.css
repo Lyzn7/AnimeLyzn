@@ -1,0 +1,197 @@
+.detail-hero {
+    position: relative;
+    padding: 3rem 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+.hero-backdrop {
+    position: absolute;
+    top: -20%;
+    left: -20%;
+    right: -20%;
+    bottom: -20%;
+    background-size: cover;
+    background-position: center;
+    filter: blur(30px) brightness(0.3);
+    z-index: -1;
+}
+
+.hero-content {
+    display: flex;
+    gap: 2.5rem;
+    align-items: flex-start;
+}
+
+.poster-wrapper {
+    flex-shrink: 0;
+    width: 280px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+}
+
+.detail-poster {
+    width: 100%;
+    display: block;
+}
+
+.anime-info {
+    flex: 1;
+    padding-top: 1rem;
+}
+
+.anime-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.anime-japanese {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+}
+
+.meta-badges {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.badge {
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+}
+
+.badge.rating {
+    color: #fbbf24;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.meta-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.meta-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.meta-item .label {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.2rem;
+}
+
+.meta-item .value {
+    font-weight: 600;
+}
+
+.genres {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+}
+
+.genre-tag {
+    padding: 0.3rem 1rem;
+    border-radius: 99px;
+    background: var(--accent);
+    color: white;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.content-section {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    padding-bottom: 3rem;
+}
+
+.synopsis-section {
+    padding: 2rem;
+    border-radius: 12px;
+}
+
+.synopsis-section h3,
+.episodes-section h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: var(--accent);
+}
+
+.episode-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    max-height: 600px;
+    overflow-y: auto;
+    padding-right: 0.5rem;
+}
+
+.episode-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    transition: all 0.2s;
+    text-decoration: none;
+    color: var(--text-primary);
+}
+
+.episode-item:hover {
+    background: var(--card-hover);
+    border-color: var(--accent);
+    transform: translateX(4px);
+}
+
+.play-icon {
+    color: var(--accent);
+}
+
+.episode-number {
+    font-weight: 700;
+    min-width: 60px;
+}
+
+.episode-title {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+@media (max-width: 900px) {
+    .hero-content {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .content-section {
+        grid-template-columns: 1fr;
+    }
+
+    .meta-grid {
+        justify-content: center;
+    }
+
+    .genres {
+        justify-content: center;
+    }
+}
