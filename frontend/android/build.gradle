@@ -1,0 +1,62 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.7.2'
+        classpath 'com.google.gms:google-services:4.4.2'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+apply from: "variables.gradle"
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+subprojects { project ->
+    // Force Java 17 toolchain for all Android modules to avoid "invalid source release" errors on JDK<21.
+    project.afterEvaluate {
+        def androidExt = project.extensions.findByName("android")
+        if (androidExt?.hasProperty("compileOptions")) {
+            androidExt.compileOptions {
+                sourceCompatibility JavaVersion.VERSION_17
+                targetCompatibility JavaVersion.VERSION_17
+            }
+        }
+
+        // Align Kotlin JVM target with Java 17 for modules using Kotlin (e.g., AdMob plugin)
+        try {
+            def kotlinCompileClass = Class.forName('org.jetbrains.kotlin.gradle.tasks.KotlinCompile')
+            project.tasks.withType(kotlinCompileClass).configureEach {
+                kotlinOptions {
+                    jvmTarget = "17"
+                }
+            }
+        } catch (ignored) {
+            // No Kotlin in this module
+        }
+
+        // Force Kotlin toolchain to 17 when Kotlin Android plugin is applied
+        project.plugins.withId("org.jetbrains.kotlin.android") {
+            def kotlinExt = project.extensions.findByName("kotlin")
+            if (kotlinExt && kotlinExt.metaClass.respondsTo(kotlinExt, "jvmToolchain", Integer)) {
+                kotlinExt.jvmToolchain(17)
+            }
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
