@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">AnimeApp</string>
-    <string name="title_activity_main">AnimeApp</string>
+    <string name="app_name">AnimeLyzn</string>
+    <string name="title_activity_main">AnimeLyzn</string>
     <string name="package_name">com.animeapp.app</string>
     <string name="custom_url_scheme">com.animeapp.app</string>
 </resources>
