@@ -14,8 +14,56 @@ import Batch from './pages/Batch';
 import AllAnime from './pages/AllAnime';
 import About from './pages/About';
 import Secret from './pages/Secret';
+import useControlGate from './hooks/useControlGate';
+
+const GateScreen = ({ title, description, actionLabel, onAction }) => (
+  <div className="container" style={{ padding: '3rem 1rem', maxWidth: 640 }}>
+    <div className="glass" style={{ padding: '2rem', borderRadius: 16, border: '1px solid var(--glass-border)', textAlign: 'center' }}>
+      <h2 className="section-title" style={{ marginBottom: '1rem' }}>{title}</h2>
+      <p style={{ color: 'var(--text-secondary)', whiteSpace: 'pre-wrap', lineHeight: 1.6 }}>{description}</p>
+      {onAction && (
+        <button className="btn btn-primary" style={{ marginTop: '1.5rem' }} onClick={onAction}>
+          {actionLabel || 'Coba lagi'}
+        </button>
+      )}
+    </div>
+  </div>
+);
 
 function App() {
+  const { status, message, reload } = useControlGate();
+
+  if (status === 'checking') {
+    return (
+      <GateScreen
+        title="Memeriksa Status"
+        description="Menghubungkan ke control.json di GitHub untuk memastikan aplikasi masih diizinkan."
+      />
+    );
+  }
+
+  if (status === 'error') {
+    return (
+      <GateScreen
+        title="Tidak bisa memverifikasi"
+        description={message || 'Gagal memeriksa status aplikasi. Pastikan koneksi internet aktif atau URL control.json benar.'}
+        actionLabel="Muat ulang"
+        onAction={reload}
+      />
+    );
+  }
+
+  if (status === 'inactive') {
+    return (
+      <GateScreen
+        title="Aplikasi Dinonaktifkan"
+        description={message || 'Aplikasi telah dinonaktifkan oleh developer. Semua fungsi dihentikan.'}
+        actionLabel="Cek ulang"
+        onAction={reload}
+      />
+    );
+  }
+
   return (
     <Routes>
       <Route path="/" element={<Layout />}>
