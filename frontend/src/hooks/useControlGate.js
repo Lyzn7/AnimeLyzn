@@ -2,8 +2,6 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { fetchControlStatus } from '../services/control';
 
 const CACHE_KEY = 'animeapp-control-cache';
-const POLL_INTERVAL_MS = 5 * 60 * 1000; // 5 minutes
-
 const readCache = () => {
   try {
     const raw = sessionStorage.getItem(CACHE_KEY);
@@ -26,7 +24,6 @@ const useControlGate = () => {
   const [status, setStatus] = useState('checking');
   const [message, setMessage] = useState('');
   const [lastChecked, setLastChecked] = useState(null);
-  const refreshId = useRef(0);
   const abortRef = useRef(null);
 
   const load = useCallback(async () => {
@@ -63,15 +60,12 @@ const useControlGate = () => {
 
   useEffect(() => {
     load();
-    const interval = setInterval(load, POLL_INTERVAL_MS);
     return () => {
       abortRef.current?.abort();
-      clearInterval(interval);
     };
   }, [load]);
 
   const reload = useCallback(() => {
-    refreshId.current += 1; // keep for future extensibility
     load();
   }, [load]);
 
