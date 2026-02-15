@@ -3,6 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import { getAnimeDetail } from '../services/api';
 import { PlayCircle, Star } from 'lucide-react';
 import './Detail.css';
+import { addHistory } from '../services/history';
 
 const Detail = () => {
     const { slug } = useParams();
@@ -16,6 +17,11 @@ const Detail = () => {
                 const result = await getAnimeDetail(slug);
                 if (result.status === 'success') {
                     setAnime(result.data);
+                    addHistory({
+                        slug,
+                        title: result.data?.title,
+                        poster: result.data?.poster,
+                    });
                 }
             } catch (error) {
                 console.error("Failed to fetch detail", error);

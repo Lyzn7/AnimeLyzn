@@ -12,8 +12,8 @@ import GenreDetail from './pages/GenreDetail';
 import Episode from './pages/Episode';
 import Batch from './pages/Batch';
 import AllAnime from './pages/AllAnime';
-import About from './pages/About';
 import Secret from './pages/Secret';
+import History from './pages/History';
 import useControlGate from './hooks/useControlGate';
 
 const GateScreen = ({ title, description, actionLabel, onAction }) => (
@@ -78,8 +78,8 @@ function App() {
         <Route path="episode/:slug" element={<Episode />} />
         <Route path="batch/:slug" element={<Batch />} />
         <Route path="all" element={<AllAnime />} />
-        <Route path="about" element={<About />} />
         <Route path="secret" element={<Secret />} />
+        <Route path="history" element={<History />} />
       </Route>
     </Routes>
   );
