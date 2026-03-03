@@ -167,7 +167,7 @@ export const getSchedule = async () => {
 
 export const getOngoingAnime = async (page = 1) => {
   try {
-    const url = `${BASE_URL}/ongoing-anime${page ? `?page=${page}` : ''}`;
+    const url = `${BASE_URL}/ongoing`;
     const response = await fetch(url);
     if (!response.ok) throw new Error('Network response was not ok');
     const json = await response.json();
