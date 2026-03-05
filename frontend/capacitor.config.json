@@ -1,5 +1,19 @@
 {
   "appId": "com.animeapp.app",
   "appName": "AnimeLyzn",
-  "webDir": "dist"
+  "webDir": "dist",
+  "ios": {
+    "contentInset": "always"
+  },
+  "android": {
+    "allowMixedContent": true,
+    "screenOrientation": "portrait"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "dark",
+      "backgroundColor": "#0f172a",
+      "overlaysWebView": false
+    }
+  }
 }

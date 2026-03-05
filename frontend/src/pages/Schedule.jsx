@@ -28,7 +28,7 @@ const Schedule = () => {
           {data.map((dayItem) => (
             <div key={dayItem.day} className="glass" style={{ padding: '1rem', borderRadius: '12px' }}>
               <h3 style={{ marginTop: 0 }}>{dayItem.day}</h3>
-              <div className="grid-layout" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(180px, 1fr))' }}>
+              <div className="grid-layout">
                 {dayItem.anime_list?.map((anime) => (
                   <Link to={`/anime/${anime.slug}`} key={anime.slug} className="anime-card" style={{ display: 'block' }}>
                     <div className="card-image-wrapper">

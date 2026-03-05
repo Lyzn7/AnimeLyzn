@@ -12,9 +12,6 @@ const Layout = () => {
                     <Outlet />
                 </PullToRefresh>
             </main>
-            <footer style={{ textAlign: 'center', padding: '2rem', color: 'var(--text-secondary)' }}>
-                <p>&copy; 2025 Anime Lyzn. All rights reserved.</p>
-            </footer>
         </div>
     );
 };

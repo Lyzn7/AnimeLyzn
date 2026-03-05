@@ -2,9 +2,14 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    padding: calc(1rem + env(safe-area-inset-top, 0)) 0 1rem 0;
+    padding: 1rem 0;
+    padding-top: calc(1rem + env(safe-area-inset-top, 0));
+    padding-right: env(safe-area-inset-right, 0);
+    padding-left: env(safe-area-inset-left, 0);
     border-bottom: 1px solid var(--glass-border);
-    margin-top: calc(-1 * env(safe-area-inset-top, 0)); /* neutralize body padding so layout stays same */
+    background: var(--glass-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
 }
 
 .navbar-content {
