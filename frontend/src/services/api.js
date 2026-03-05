@@ -1,4 +1,4 @@
-const BASE_URL = 'https://www.sankavollerei.com/anime/samehadaku';
+const BASE_URL = 'https://www.sankavollerei.com/anime';
 
 const normalizeSlug = (value = '') => {
   if (!value) return '';
