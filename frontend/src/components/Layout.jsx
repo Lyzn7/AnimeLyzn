@@ -2,6 +2,7 @@ import React from 'react';
 import { Outlet } from 'react-router-dom';
 import Navbar from './Navbar';
 import PullToRefresh from './PullToRefresh';
+import Ads from './Ads';
 
 const Layout = () => {
     return (
@@ -9,7 +10,9 @@ const Layout = () => {
             <Navbar />
             <main className="main-content">
                 <PullToRefresh>
+                    <Ads placement="top" />
                     <Outlet />
+                    <Ads placement="bottom" />
                 </PullToRefresh>
             </main>
         </div>
